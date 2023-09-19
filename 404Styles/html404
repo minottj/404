@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+        </nav>
+        <section>
+            <div>
+                <h1>404 ERROR</h1>
+                <h2>Looks like you are in a dead end.</h2>
+                <h3>Page not found.</h3>
+            </div>
+            <img src="deadend.png" alt="dead end sign">
+        </section>
+        <footer>
+            <p>&copy;2023 Julia</p>
+        </footer>
+    </body>
+</html>
