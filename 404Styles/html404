@@ -5,6 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
     </head>
+    :root {
+        --basic: #000000; /'Gujarati Sangam MN',
+        backround-color: #F3B203; 
+    }
     <body>
         <nav>
             <a href="#">Home</a>
