@@ -10,6 +10,9 @@
         backround-color: #F3B203; 
     }
     <body>
+    :root {
+        color: var(--basic);
+    }
         <nav>
             <a href="#">Home</a>
             <a href="#">About</a>
