@@ -1,0 +1,22 @@
+:root {
+    font-family: 'Gujarati Sangam MN', sans-serif;
+    background-color: #F3B203; 
+}
+body {
+    color: red;
+}
+section {
+    background-image: url('../deadend.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 50px);
+    text-shadow: 1px 1px 0 black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+h1 {
+    font-size: 7.2rem;
+    
+}
