@@ -8,32 +8,44 @@ body {
 section {
     background-image: url('../deadend.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     height: calc(100vh - 50px);
     text-shadow: 1px 1px 0 black;
     color: white;
 }
 h1 {
-    font-size: 7.2rem;
+    font-size: 8rem;
+    
     
 }
 .maintext
 {
     display:flex;
     justify-content: center;
+    font-family: 'Gujarati Sangam MN'; 
 }
 .text 
 {
-    margin: 1rem;
-    line-height: 1rem;
+    vertical-align: top;
+    font-size: 2.6rem;
+    margin: 6rem;
+    line-height: 1.2rem;
+    font-family: 'Gujarati Sangam MN';
+    display:inline;
+    position: relative; left: 30px;
 }
 .link
 {
     color: black;
-    margin-left: 2rem;
+    margin-left: 20rem;
+    line-height: 3rem;
+    font-family: 'Gujarati Sangam MN';
+    font-size: 2rem;
+    position: relative; right: 20px;
 }
 .linkdiv 
 {
     display: flex;
     justify-content:flex-end;
+    font-family: 'Gujarati Sangam MN';
 }
